@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.3.14)  15 MAR 2020 21:47
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.3.14)  16 MAR 2020 20:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -123,14 +123,14 @@ LaTeX Font Info:    ... okay on input line 12.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(28.90755pt, 556.4799pt, 28.90755pt)
+* h-part:(L,W,R)=(36.135pt, 542.02501pt, 36.135pt)
 * v-part:(T,H,B)=(28.90755pt, 737.15489pt, 28.90755pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=556.4799pt
+* \textwidth=542.02501pt
 * \textheight=737.15489pt
-* \oddsidemargin=-43.36244pt
-* \evensidemargin=-43.36244pt
+* \oddsidemargin=-36.135pt
+* \evensidemargin=-36.135pt
 * \topmargin=-80.36244pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -164,14 +164,28 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 12--12
 LaTeX Font Warning: Font shape `TU/lmr/bx/sc' undefined
 (Font)              using `TU/lmr/bx/n' instead on input line 17.
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 19.
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--20
+Underfull \hbox (badness 2080) in paragraph at lines 24--25
+\TU/lmr/m/n/10.95 of National Taiwan Normal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--44
 
  []
 
 
-Overfull \hbox (26.86914pt too wide) in paragraph at lines 16--121
-[][] [] 
+Underfull \hbox (badness 10000) in paragraph at lines 48--62
+
+ []
+
+
+Overfull \hbox (34.86179pt too wide) in paragraph at lines 16--159
+[][]   [] 
  []
 
 [1
@@ -182,12 +196,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 1595 strings out of 493992
- 22507 string characters out of 6161316
- 98717 words of memory out of 5000000
- 6004 multiletter control sequences out of 15000+600000
- 6427 words of font info for 29 fonts, out of 8000000 for 9000
+ 1599 strings out of 493992
+ 22580 string characters out of 6161316
+ 101711 words of memory out of 5000000
+ 6007 multiletter control sequences out of 15000+600000
+ 6435 words of font info for 30 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 50i,6n,31p,877b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 50i,6n,31p,877b,234s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on resume_2col.pdf (1 page).
